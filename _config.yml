@@ -1,0 +1,15 @@
+title: 3D CostLab Legal
+description: Documentación legal de la aplicación 3D CostLab
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - _es
+  - _en
+  - _layouts
