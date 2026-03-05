@@ -21,10 +21,10 @@ collections:
     permalink: /it/:name.html
   kr:
     output: true
-    permalink: /it/:name.html
+    permalink: /kr/:name.html
   cn:
     output: true
-    permalink: /it/:name.html
+    permalink: /cn/:name.html
   jp:
     output: true
-    permalink: /it/:name.html
+    permalink: /jp/:name.html
